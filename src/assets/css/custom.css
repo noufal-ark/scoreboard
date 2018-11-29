@@ -1,0 +1,38 @@
+.main-bg{
+    background: url(../imgs/main-bg1.jpg);
+    background-size: cover;
+}
+.citrus-title{
+    text-align: center !important;    
+}
+.citrus-title-span{
+    font-size: 3rem;
+    color: #052254;
+    font-weight: bold;
+}
+.citrus-title-logo{
+    width:30% !important;
+    display:inline-block;
+}
+.team-title{
+    text-align: center !important;    
+}
+.team-title-span{    
+    font-size: 2rem;
+    color: #b75706;
+    font-weight: bold;
+    text-shadow: 3px 4px 5px #e0e0e0;
+}
+.score-board{
+    text-align: center !important;    
+}
+.score-board-span{    
+    font-size: 14rem;
+    color: #82347c;
+    font-weight: bold;
+    border-radius: 16%;
+    padding: 10px;
+    background-color: #e0e0e0;
+    text-shadow: 3px 4px 5px #000;
+    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5); 
+}
