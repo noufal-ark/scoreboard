@@ -36,3 +36,38 @@
     text-shadow: 3px 4px 5px #000;
     box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5); 
 }
+.event-board{
+    text-align: center !important;    
+}
+.event-board-span{    
+    font-size: 5rem;
+    color: #009688;
+    font-weight: bold;
+    border-radius: 10%;
+    padding: 10px;
+    background-color: #e0e0e0;
+    text-shadow: 3px 4px 5px #94c7c3;
+    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5);
+}
+.event-title{
+    text-align: center !important;    
+}
+.event-title-span{
+    font-size: 2.5rem;
+    color: #9C27B0;
+    font-weight: bold;
+    text-shadow: 3px 4px 5px #e0e0e0;
+}
+.event-title-date{
+    font-size: 1rem;
+    color: #999;
+    display: block;
+    font-weight: normal;
+}
+.team-event-title{
+    font-size: 1.5rem;
+    color: #71777b;
+    font-weight: bold;  
+    display: block;
+    text-align: center;
+}
